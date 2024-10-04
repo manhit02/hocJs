@@ -1,0 +1,8 @@
+version: '3'
+services:
+  web:
+    image: dockeritc65/web-base:2
+    ports:
+      - '3000:3000'
+    environment:
+      NODE_ENV: production

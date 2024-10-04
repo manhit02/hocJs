@@ -1,0 +1,6 @@
+public/assets
+.env
+.env.local
+jenkins.config.yaml
+.gitignore
+.git
